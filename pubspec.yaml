@@ -1,0 +1,61 @@
+name: cactus_app
+description: A new Flutter project.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.3
+  #Bloc
+  flutter_bloc: ^3.0.0
+  equatable: ^1.0.0
+  #Local save
+  shared_preferences: ^0.5.7+1
+  #DI
+  get_it: ^3.1.0
+  #Genarate Launcher Icon
+  flutter_launcher_icons: ^0.7.0
+  #Firebase
+  firebase_core: ^0.4.4+3
+  firebase_database: ^3.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/images/ic_catus_splash.png
+    - assets/images/ic_launcher.png
+    - assets/images/img_blog_dummy.jpg
+    - assets/images/ic_placeholder_img.png
+    - assets/images/ic_cactus_27.0.png
+    - assets/images/ic_cactus_27.1.png
+    - assets/images/ic_cactus_27.2.png
+    - assets/images/ic_cactus_27.3.png
+    - assets/images/ic_cactus_27.4.png
+    - assets/images/ic_cactus_27.5.png
+    - assets/images/ic_cactus_27.6.png
+    - assets/images/ic_cactus_27.7.png
+    - assets/images/ic_cactus_27.8.png
+
+  uses-material-design: true

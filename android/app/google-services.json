@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727894303250",
+    "firebase_url": "https://cactus-app-b0481.firebaseio.com",
+    "project_id": "cactus-app-b0481",
+    "storage_bucket": "cactus-app-b0481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727894303250:android:ba787b223549bb08212ecb",
+        "android_client_info": {
+          "package_name": "happytechstudio.app.cactus_handbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727894303250-n1ili15h47rbmhvb448r1huf2omvepnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "happytechstudio.app.cactus_handbook",
+            "certificate_hash": "ac192162ae0782bacdf9eaaa1d3bee14ee403812"
+          }
+        },
+        {
+          "client_id": "727894303250-5hifbkkfja8h105ineklc9ec0g8i21vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoNVXoPbcKijKQ2UeDxXwiMwa0hG8W7Xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727894303250-5hifbkkfja8h105ineklc9ec0g8i21vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

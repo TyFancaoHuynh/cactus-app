@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>727894303250-brqkjlqbrqpfh15kanp1r7b8b7m4cgte.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.727894303250-brqkjlqbrqpfh15kanp1r7b8b7m4cgte</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>727894303250-n1ili15h47rbmhvb448r1huf2omvepnh.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkHP3MtD-S5g_7bGDi6cXmPnP3QPBWlTQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>727894303250</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>happytechstudio.app.cactushandbook</string>
+	<key>PROJECT_ID</key>
+	<string>cactus-app-b0481</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cactus-app-b0481.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:727894303250:ios:dfc469a75d35cdab212ecb</string>
+	<key>DATABASE_URL</key>
+	<string>https://cactus-app-b0481.firebaseio.com</string>
+</dict>
+</plist>
